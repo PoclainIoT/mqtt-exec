@@ -24,7 +24,7 @@
   "dependencies": {
     "mqtt": ">=0.2.0",
     "optimist": ">=0.3.1",
-    "exec": "0.0.5",
+    "exec": "0.2.1",
     "sleep": "1.1.0",
     "log4js": "*"
   },
